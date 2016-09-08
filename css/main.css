@@ -1,0 +1,78 @@
+body{
+	font-family: "Open Sans";
+}
+
+header{
+	background: url(../img/grupal.jpg);
+	background-size: cover;
+	height: 730px;
+}
+
+.boton, .nav{
+	margin-top: 75px;
+}
+
+.boton{
+	background-color: #e79c29;
+	width: 90px;
+	height: 40px;
+	border-radius: 5px;
+	margin-left: 50px;
+}
+
+.boton p{
+	text-align: center;
+	padding-top: 10px;
+}
+
+.logo img{
+	width: 40%;
+	display: block;
+	margin: auto;
+}
+
+.nav{
+	text-align: center;
+	padding-left: 120px;
+}
+
+.nav a{
+	text-decoration: none;
+	color: black;
+	padding: 5px;	
+	font-size: 14px;
+}
+
+.foto{
+	margin-top: 20px;
+}
+
+.foto img{
+	width: 100%;	
+}
+
+.foto h4{
+	margin-top: 20px;
+}
+
+footer{
+	background-color: #2f2f2f;
+}
+
+.pie{
+	margin-top: 20px;
+}
+
+.text, .text a{
+	font-size: 14px;
+}
+
+.text{
+	color: white;
+	padding: 30px 0px;
+}
+
+.text a{
+	text-decoration: none;
+	color: white;
+}
